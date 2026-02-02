@@ -13,14 +13,14 @@ Requirement: Install NodeJS, NPM
 
 Then:
 ```
-git clone https://github.com/niiknow/vue-datatables-net
+git clone https://github.com/realdev71/vue-datatables-net
 cd vue-datatables-net
 npm install
 ```
 
 or in one command:
 ```
-npm install git+https://github.com/niiknow/vue-datatables-net.git
+npm install git+https://github.com/realdev71/vue-datatables-net.git
 ```
 
 To run locally (automatically launch firefox):
